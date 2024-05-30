@@ -3,7 +3,7 @@
 <h3>Olá👋🏻, me chamo Harley Martins, um entusiasta Desenvolvedor Front-end apaixonado por tecnologia.</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Desenvolvimento Front-end** na <a href="www.onebitcode.com">OneBitCode</a>.
+- 🎓 Estudando **Desenvolvimento Front-end** na <a href="https://www.onebitcode.com">OneBitCode</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript & React**.
 
 <h3>Minhas Skills</h3>
