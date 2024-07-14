@@ -40,5 +40,4 @@
 <h3>Onde me encontrar</h3>
 
 [![Linkedin](https://img.shields.io/badge/-HarleyMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harleymartins/)](https://www.linkedin.com/in/harleymartins/)
-[![Gmail Badge](https://img.shields.io/badge/-harleysztdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harleysztdev@gmail.com)](mailto:harleysztdev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/HarleyMartins?label=follow&style=social)](https://github.com/HarleyMartins)
