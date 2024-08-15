@@ -1,43 +1,31 @@
+## 💜 Olá, meu nome é Harley Martins!
 
+Sou um Desenvolvedor Frontend com meses de experiência, trabalho com HTML TAILWIND e JavaScript. Estou estudando sobre JS e React.
 
-<h3>Olá👋🏻, me chamo Harley Martins, um entusiasta Desenvolvedor Front-end apaixonado por tecnologia.</h3>
+<!-- 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele. !-->
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Desenvolvimento Front-end** na <a href="https://www.onebitcode.com">OneBitCode</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript & React**.
+<!-- 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas. !-->
 
-<h3>Minhas Skills</h3>
+---
 
-**Aplicações e dados**
+## 🚀 Minhas Skills
 
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code> !-->
+<!--<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code> !-->
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code> !-->
+<!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code> !-->
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/tailwindcss.png" alt="MySQL"/></code>
+<!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code> !-->
+<!-- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code> !-->
 
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+## ⭐ GitHub Stats
 
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-
-<br/>
-
-<a href="https://github.com/HarleyMartins" title="Perfil do Harley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarleyMartins&theme=dracula&show_icons=true" />
-</a>
-
-<h3>Onde me encontrar</h3>
-
-[![Linkedin](https://img.shields.io/badge/-HarleyMartins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harleymartins/)](https://www.linkedin.com/in/harleymartins/)
-[![GitHub](https://img.shields.io/github/followers/HarleyMartins?label=follow&style=social)](https://github.com/HarleyMartins)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarleyMartins&show_icons=true)
