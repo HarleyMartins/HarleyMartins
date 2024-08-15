@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Harley Martins!
 
-Sou um Desenvolvedor Frontend com meses de experiência, trabalho com HTML TAILWIND e JavaScript. Estou estudando sobre JS e React.
+Sou um Desenvolvedor Frontend com meses de experiência, trabalho com HTML, Tailwindcss e JavaScript. Estou estudando sobre JS e React.
 
 <!-- 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele. !-->
 
