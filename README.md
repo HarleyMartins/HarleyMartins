@@ -38,28 +38,17 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor **Front-end** com m
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-## 🏆 Minhas Contribuições
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=devharley_&theme=tokyonight)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devharley_&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devharley_&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 🌱 O que estou aprendendo atualmente:
-- Aprofundando meus conhecimentos em **React** e **Next.js**;
-- Experimentando com **GraphQL** e **Headless CMS** para construção de projetos escaláveis.
+- Aprofundando meus conhecimentos em **Typescript** e **React.js**;
+<!-- - Experimentando com **GraphQL** e **Headless CMS** para construção de projetos escaláveis. --> 
 
 ---
 
 ## 🌍 Onde você pode me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/harley)
+- [LinkedIn](https://www.linkedin.com/in/harleymartins)
 - [Instagram](https://www.instagram.com/devharley_)
-- [Twitter](https://twitter.com/devharley_)
+<!-- - [Twitter](https://twitter.com/devharley_) --> 
 
 ---
 
@@ -67,4 +56,4 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor **Front-end** com m
   <img src="https://komarev.com/ghpvc/?username=devharley_&label=Profile%20views&color=0e75b6&style=flat" alt="devharley_" />
 </p>
 
-⭐️ **Se você gostou do meu perfil, não esqueça de deixar uma estrela nos meus projetos!**
+⭐️ **Se você gostou do meu perfil, não esqueça de deixar uma estrela nos meus projetos! 😊**
