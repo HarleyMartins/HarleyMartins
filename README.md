@@ -9,7 +9,7 @@
 
 # 🧑‍💻 Harley Martins - Front-end Developer 
 
-Seja bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor **Front-end** com mais de **1 ano de experiência** em **JavaScript**. Focado em entregar soluções eficientes, bonitas e profissionais. Além de criar conteúdo para a comunidade em meu Instagram.
+Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end** com mais de **1 ano de experiência** em **JavaScript**. Focado em entregar soluções eficientes, bonitas e profissionais. Além de criar conteúdo para a comunidade em meu Instagram.
 
 ### 🌐 Meus objetivos:
 - Criar experiências web profissionais;
