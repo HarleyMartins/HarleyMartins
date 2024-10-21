@@ -1,6 +1,6 @@
 <!-- Banner ou animação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=PoppinsCode&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Olá%2C+bem-vindo+ao+meu+GitHub!;Eu+sou+o+Harley%2C+dev+front-end!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SoraCode&size=22&pause=2000&color=FFFFFF&center=true&width=435&lines=Olá%2C+bem-vindo+ao+meu+GitHub!;Eu+sou+o+Harley%2C+dev+front-end!">
 </p>
 
 ---
