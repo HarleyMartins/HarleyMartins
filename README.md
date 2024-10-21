@@ -1,32 +1,69 @@
-## 💜 Olá, meu nome é Harley Martins!
-
-Sou um Desenvolvedor Frontend com meses de experiência, trabalho com HTML, Tailwindcss e JavaScript. Estou estudando sobre JS e React.
-
-<!-- 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele. !-->
-
-<!-- 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas. !-->
+<!-- Banner ou animação -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Olá%2C+bem-vindo+ao+meu+GitHub!;Eu+sou+o+Harley%2C+dev+front-end!">
+</p>
 
 ---
 
-## 🚀 Minhas Skills
+# 💻 Harley - Front-end Developer | Open-Source Enthusiast
 
-<!-- <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code> !-->
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="Tailwindcss"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+Seja bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor **Front-end** com mais de **X anos de experiência** em **tecnologias web modernas**. Focado em entregar soluções eficientes, bonitas e responsivas, além de compartilhar meus conhecimentos com a comunidade.
 
-
-
-
-
+### 🌐 Meus objetivos:
+- Criar experiências web excepcionais;
+- Colaborar em projetos open-source inovadores;
+- Aprender e ensinar novas tecnologias.
 
 ---
 
-## ⭐ GitHub Stats
+## 🛠️ Habilidades Técnicas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarleyMartins&show_icons=true)
+### Linguagens de Programação & Marcação:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### Frameworks & Bibliotecas:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+### Ferramentas de Desenvolvimento:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 🏆 Minhas Contribuições
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devharley_&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devharley_&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devharley_&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌱 O que estou aprendendo atualmente:
+- Aprofundando meus conhecimentos em **React** e **Next.js**;
+- Experimentando com **GraphQL** e **Headless CMS** para construção de projetos escaláveis.
+
+---
+
+## 🌍 Onde você pode me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/harley)
+- [Instagram](https://www.instagram.com/devharley_)
+- [Twitter](https://twitter.com/devharley_)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devharley_&label=Profile%20views&color=0e75b6&style=flat" alt="devharley_" />
+</p>
+
+⭐️ **Se você gostou do meu perfil, não esqueça de deixar uma estrela nos meus projetos!**
