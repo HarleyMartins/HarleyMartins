@@ -53,7 +53,7 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor **Front-end** com m
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devharley_&label=Profile%20views&color=0e75b6&style=flat" alt="devharley_" />
+  <img src="https://komarev.com/ghpvc/?username=HarleyMartins&label=Profile%20views&color=0e75b6&style=flat" alt="HarleyMartins" />
 </p>
 
 ⭐️ **Se você gostou do meu perfil, não esqueça de deixar uma estrela nos meus projetos! 😊**
