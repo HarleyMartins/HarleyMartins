@@ -21,6 +21,7 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end** com m
 ## 🛠️ Habilidades Técnicas
 
 ### Front-end:
+![React.Js](https://img.shields.io/badge/-ReactJs-F7DF1E?style=flat-square&logo=reactjs&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
