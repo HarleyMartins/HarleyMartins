@@ -21,7 +21,8 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end e Mobil
 ## 🛠️ Habilidades Técnicas
 
 ### Front-end:
-![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=reactnative&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React.Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,12 +41,13 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end e Mobil
 ### Ferramentas de Desenvolvimento:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=orange)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
 ## 🌱 O que estou aprendendo atualmente:
-- Aprofundando meus conhecimentos em **Typescript** e **React.js**;
+- Aprofundando meus conhecimentos em **Typescript**, **React.js** e **ReactNative**;
 <!-- - Experimentando com **GraphQL** e **Headless CMS** para construção de projetos escaláveis. --> 
 
 ---
@@ -53,7 +55,6 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end e Mobil
 ## 🌍 Onde você pode me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/harleymartins)
 - [Instagram](https://www.instagram.com/devharley_)
-<!-- - [Twitter](https://twitter.com/devharley_) --> 
 
 ---
 
@@ -61,4 +62,4 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end e Mobil
   <img src="https://komarev.com/ghpvc/?username=HarleyMartins&label=Profile%20views&color=0e75b6&style=flat" alt="HarleyMartins" />
 </p>
 
-⭐️ **Se você gostou do meu perfil, não esqueça de deixar uma estrela nos meus projetos! 😊**
+<!-- ⭐️ **Se você gostou do meu perfil, não esqueça de deixar uma estrela nos meus projetos! 😊** -->
