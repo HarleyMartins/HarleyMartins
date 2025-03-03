@@ -7,12 +7,12 @@
 
 ---
 
-# 🧑‍💻 Harley Martins - Front-end Developer 
+# 🧑‍💻 Harley Martins - Front-end & Mobile Developer 
 
-Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end** com mais de **1 ano de experiência** em **JavaScript**. Focado em entregar soluções eficientes, bonitas e profissionais. Além de criar conteúdo para a comunidade em meu Instagram.
+Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end e Mobile** com mais de **1 ano de experiência** em **JavaScript**. Focado em entregar soluções eficientes, bonitas e profissionais. Além de criar conteúdo para a comunidade em meu Instagram.
 
 ### 🌐 Meus objetivos:
-- Criar experiências web profissionais;
+- Criar experiências profissionais;
 - Colaborar em projetos da comunidade;
 - Aprender e ensinar novas tecnologias.
 
@@ -21,6 +21,7 @@ Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end** com m
 ## 🛠️ Habilidades Técnicas
 
 ### Front-end:
+![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=reactnative&logoColor=61DAFB)
 ![React.Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
