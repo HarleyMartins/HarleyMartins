@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=QuicksandCode&size=22&pause=2000&color=FFFFFF&center=true&width=600&lines=Olá%F0%9F%91%8B%2C+eu+sou+Harley+Martins%21+Dev+Front-end+;+desenvolvendo+e+fornecendo+aplicações+profissionais+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB">
 </p> -->
 
-
-
----
-
 # 🧑‍💻 Harley Martins - Front-end & Mobile Developer 
 
 Seja bem-vindo ao meu perfil no GitHub! Sou um **desenvolvedor Front-end e Mobile** com mais de **1 ano de experiência** em **JavaScript**. Focado em entregar soluções eficientes, bonitas e profissionais. Além de criar conteúdo para a comunidade em meu Instagram.
