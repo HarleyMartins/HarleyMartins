@@ -1,6 +1,6 @@
 <!-- Banner ou animação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=QuicksandCode&size=22&pause=2000&color=FFFFFF&center=true&width=600&lines=Olá%F0%9F%91%8B%2C+eu+sou+Harley+Martins%21+Dev+Front-end&Mobile;+desenvolvendo+e+fornecendo+aplicações+profissionais+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB">
+  <img src="https://readme-typing-svg.herokuapp.com?font=QuicksandCode&size=22&pause=2000&color=FFFFFF&center=true&width=600&lines=Olá%F0%9F%91%8B%2C+eu+sou+Harley+Martins%21+Dev+Front-end+&+Mobile;+desenvolvendo+e+fornecendo+aplicações+profissionais+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB">
 </p>
 
 
